@@ -1,30 +1,36 @@
 # Hi, I'm Hải 👋
 
-🎨 Graphic Design Student
-
-💻 Building Software with AI
-
+🎨 Graphic Design Student  
+💻 Building Software with AI  
 ⚡ Creator of RealFPS
+
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue)
+![Project](https://img.shields.io/badge/Project-RealFPS-purple)
+![Built With](https://img.shields.io/badge/Built%20With-AI-green)
+![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-success)
 
 ---
 
 ## About Me
 
-I'm a graphic design student who enjoys exploring
-technology, Windows optimization and software development.
+I'm a graphic design student passionate about technology,
+Windows optimization, and software development.
 
-I use AI as a tool to turn ideas into real projects.
+I use AI as a creative and technical partner to transform ideas into real projects.
 
 Currently building:
 
-🎮 RealFPS
+### 🎮 RealFPS
 
-A Windows Gaming Optimizer focused on:
+A Windows Gaming Optimizer built around a simple philosophy:
 
-- Measurable performance
-- Transparent tweaks
-- Easy restoration
-- No placebo optimizations
+✅ Only measurable optimizations
+
+✅ Transparent changes
+
+✅ Easy restoration
+
+✅ No placebo tweaks
 
 ---
 
@@ -34,12 +40,12 @@ A Windows Gaming Optimizer focused on:
 
 ---
 
-## Current Goals
+## Current Focus
 
-- Improve RealFPS
-- Learn software development
-- Combine design and technology
-- Build useful tools with AI
+- 🚀 Developing RealFPS
+- 🖥 Learning Windows Internals
+- 🤖 AI-Assisted Development
+- 🎨 Combining Design & Technology
 
 ---
 
@@ -47,13 +53,54 @@ A Windows Gaming Optimizer focused on:
 
 ### 🎮 RealFPS
 
-Windows Gaming Optimizer
+Windows Gaming Optimizer focused on measurable performance.
 
 🔗 https://github.com/HaiCreates/RealFPS
 
+---
+
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HaiCreates&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaiCreates&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiCreates&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiCreates&layout=compact&theme=tokyonight&hide_border=true)
 
+---
+
+## Skills
+
+### Design
+
+- Adobe Photoshop
+- Adobe Illustrator
+- Figma
+- Premiere Pro
+- Canva
+
+### Technology
+
+- Windows Optimization
+- Batch Scripting
+- PowerShell
+- Git & GitHub
+- AI-Assisted Development
+
+---
+
+## Goals For 2026
+
+- Release RealFPS v1.0
+- Build a GUI version of RealFPS
+- Improve English skills
+- Learn more about software development
+- Create more open-source projects
+
+---
+
+## Quote
+
+> "Curiosity is more important than credentials."
+
+---
+
+⭐ If you like RealFPS, consider starring the repository.
