@@ -1,9 +1,10 @@
 # Hi, I'm Hải 👋
 
-🎨 Graphic Design Student
-💻 Building Software with AI
-⚡ Creator of RealFPS
-🖼️ Design Portfolio: behance.net/nZZz8153
+🎨 Graphic Design Student<br>
+💻 Building Software with AI<br>
+⚡ Creator of RealFPS<br>
+<br>
+🖼️ Portfolio → behance.net/nZZz8153
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue)
 ![Project](https://img.shields.io/badge/Project-RealFPS-purple)
