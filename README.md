@@ -50,3 +50,10 @@ A Windows Gaming Optimizer focused on:
 Windows Gaming Optimizer
 
 🔗 https://github.com/HaiCreates/RealFPS
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=HaiCreates&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaiCreates&layout=compact&theme=dark)
+
