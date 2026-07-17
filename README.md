@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HaiCreates/HaiCreates/main/banner.png" width="100%">
+</p>
+
 # Hi, I'm Hải 👋
 
 🎨 Graphic Design Student  
