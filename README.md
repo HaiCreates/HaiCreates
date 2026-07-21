@@ -1,6 +1,6 @@
 # Hi, I'm Hải 👋
 
-🎨 Graphic Design Student<br>
+🎨 Graphic Design<br>
 💻 Building Software with AI<br>
 ⚡ Creator of RealFPS<br>
 <br>
